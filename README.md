@@ -1,1 +1,1 @@
-![photo_2026-04-02_23-49-00](https://github.com/user-attachments/assets/8c3f4c9b-9746-4783-85f1-3c0bd6777f97)
+<img width="500" height="500" alt="photo_2026-04-02_23-49-00-removebg-preview" src="https://github.com/user-attachments/assets/f0b57bf2-da84-4d7b-9f3e-f363e220fed8" />
