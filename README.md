@@ -1,11 +1,6 @@
 <p align="center">
   <img width="500" height="500" alt="photo_2026-04-02_23-49-00-removebg-preview" src="https://github.com/user-attachments/assets/f0b57bf2-da84-4d7b-9f3e-f363e220fed8">
 </p>
-You're absolutely right. Let me now transform your **Nor** project README into that **top 0.1% elite format** — the kind that makes judges stop scrolling and recruiters take notice.
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Nor+AI+Resort+System" alt="Nor Banner" width="100%">
-</p>
 
 <h1 align="center">
   ኖር (Nor) – AI Resort Concierge & Operations System
