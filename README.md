@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><strong>🌐 Live Demo</strong></a> •
+  <a href="https://norai.infinityfreeapp.com/htdoc/main/?i=1"><strong>🌐 Live Demo</strong></a> •
   <a href="#-features"><strong>✨ Features</strong></a> •
   <a href="#-quick-start"><strong>⚡ Quick Start</strong></a> •
   <a href="#-system-architecture"><strong>🏗️ Architecture</strong></a>
